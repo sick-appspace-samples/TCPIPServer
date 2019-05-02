@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<manifest>
+    <application name="TCPIPServer">
+        <crown name="TCPIPServer">
+            <desc>user script</desc>
+            <serves/>
+            <uses/>
+        </crown>
+        <meta key="author">AppSpace Sample</meta>
+        <meta key="version">2.5.0</meta>
+        <meta key="licensed">false</meta>
+        <meta key="priority">low</meta>
+        <meta key="copy-protected">false</meta>
+        <meta key="read-protected">false</meta>
+        <meta key="tags">Communication</meta>
+        <entry path="scripts" default="TCPIPServer.lua">
+            <file type="text/x-lua">TCPIPServer.lua</file>
+        </entry>
+    </application>
+</manifest>
