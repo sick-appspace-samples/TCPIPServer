@@ -5,7 +5,7 @@
   Description:
   Creating TCP/IP Server.
 
-  Script creates a TCPIPServer and wait for connections on port 2345. If new connections
+  Script creates a TCPIPServer and wait for connections on port 2120. If new connections
   arrive, they are accepted and a greeting message is sent to them. The data on every
   connection is received and the length of the data is sent back.
 
